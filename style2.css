@@ -1,0 +1,45 @@
+#blue{
+    height: 50px;
+background-color: #405d9b;
+color: #d9dfeb;
+}
+#profile_logo{
+    width: 800px;
+    margin: auto;
+    font-size: 30px;
+}
+#search_box{
+    width: 400px;
+    height: 20px;
+    border-radius: 5px;
+    border: none;
+    padding: 4px;
+    font-size: 14px;
+    background-image: url(search.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#body_profile{
+    font-family: Tahoma;
+    background-color: #d0d8e4;
+}
+#profile_cover_area{
+    width: 800px;
+    margin: auto;
+    background-color: black;
+    min-height: 400px;
+}
+#profile_cover{
+    background-color: white;
+    text-align: center;
+    columns: #405d9b;
+}
+#profile_cover_image{
+    width: 100%;
+}
+#profile_pic{
+    width: 150px;
+    margin-top: -200px;
+    border-radius: 50%;
+    border: solid 2px white;
+}
